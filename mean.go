@@ -20,6 +20,6 @@ func main() {
 		}
 		vals++
 		sum += val
-		fmt.Println(sum / vals)
 	}
+	fmt.Println(sum / vals)
 }
